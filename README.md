@@ -32,19 +32,11 @@
 
 # \### 🏠 Home Screen
 
-# 
+![Home Screen](./screenshots/home-screen.jpeg)
 
-# !\[Home Screen](screenshots/home-screen.jpeg)
+![Screen Selection Dialog](./screenshots/dialog-screen-selection.jpeg)
 
-# 
 
-# \### 📲 Screen Selection Dialog
-
-# 
-
-# !\[Screen Selection Dialog](screenshots/dialog-screen-selection.jpeg)
-
-# 
 
 # \## ✨ Features
 
